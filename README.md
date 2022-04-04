@@ -1,5 +1,5 @@
 ## Who I am
-👋 Greetings, I am a graduate student at **DePaul University** in Chicago, IL, pursuing an **MSc in Data Science**. 
+👋 Greetings, I am a graduate student at **DePaul University** in Chicago, IL, pursuing a **MSc in Data Science**. 
 
 ## Skills
 🌱 I have classroom and personal experience with **Python**, **R**, **SAS**, and **SQL** along with various **multivariate analysis** techniques such as Factor Analysis, Correspondence Analysis, PCA, LDA, and CCA. Competent in implementing various machine learning algorithms in R and Python such as linear/logistic regression, decision trees, support vector machines and clustering (among other unsupervised learning techniques).  
