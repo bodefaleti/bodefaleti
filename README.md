@@ -1,5 +1,5 @@
 ## Who I am
-👋 Greetings, I am a **data science intern** at Evraz North America while pursuing a **MSc** in **Data Science** at **DePaul University**.  
+👋 Greetings, I am a **data science intern** at Evraz North America and recent **MSc** graduate in **Data Science** at **DePaul University**.  
 
 ## Skills
 🌱 I have classroom and personal experience with **Python**, **SQL**, **R** and **PL/SQL** among others. I have implemented various **machine learning** algorithms in R and Python such as linear/logistic regression, decision trees, neural networks, ensemble methods, support vector machines and clustering (among other unsupervised learning techniques). Familiar libraries include **Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, Keras, Tidyverse (ggplot2, dplyr, tidyr)**. Knowledgable **multivariate analyses** include techniques such as Factor Analysis, Correspondence Analysis, PCA, LDA, and CCA. More recently, I've become acquainted with various big data technologies within Apache **Hadoop**'s software framework such as  **Hive, Pig, HBase, Mahout, Storm, Spark** in Linux via Amazon's EC2 service. Various visualizations have been created using Microsoft **Power BI** and **Tableau**. 
